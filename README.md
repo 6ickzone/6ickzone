@@ -1,4 +1,3 @@
- 
 # 6ickzone
 > Curious and just bored enough to code.
 Code • Create • Conquer  
