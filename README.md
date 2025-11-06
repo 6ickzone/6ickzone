@@ -13,6 +13,6 @@ I love exploring new tools and breaking things just to see how they work.
 
 ---
 
-### 🔑 Public Keys
+### Public Keys
 ```bash
-curl -s [https://github.com/](https://github.com/)[YOUR-USERNAME].gpg | gpg --import
+curl -s https://github.com/6ickzone.gpg | gpg --import
